@@ -1,0 +1,13 @@
+
+==================================================
+Time: 2026-05-30 13:50:02.114129
+Nginx: RUNNING
+
+RAM:
+               total        used        free      shared  buff/cache   available
+Mem:           3.0Gi        77Mi       2.8Gi       0.0Ki       103Mi       2.8Gi
+Swap:          1.0Gi          0B       1.0Gi
+
+Disk:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdb        251G  7.2G  231G   4% /
